@@ -1,2 +1,2 @@
-# YYYY-MM-DD-to-DD-MM-YYYY
+# Data Query
 Para arrumar querys de larga escala que estejam nos padrões descritos.
